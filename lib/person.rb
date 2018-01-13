@@ -3,6 +3,6 @@ class Person
 
   #def #talk instance method that puts "Hello World!"
   def talk
-
-  end  
+    puts "Hello World!"
+  end
 end
