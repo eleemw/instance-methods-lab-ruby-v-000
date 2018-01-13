@@ -7,4 +7,7 @@ class Person
   end
 
   # def #walk instance method that puts "The Person is walking".
+  def walk
+
+  end  
 end
