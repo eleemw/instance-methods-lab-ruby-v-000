@@ -8,5 +8,5 @@ class Dog
   # define #sit instance method
   def sit
     puts "The Dog is sitting"
-  end  
+  end
 end
