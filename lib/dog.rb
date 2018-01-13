@@ -4,4 +4,9 @@ class Dog
   def bark
     puts "Woof!"
   end
+
+  # define #sit instance method
+  def sit
+
+  end  
 end
