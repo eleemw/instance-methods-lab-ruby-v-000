@@ -9,5 +9,5 @@ class Person
   # def #walk instance method that puts "The Person is walking".
   def walk
     puts "The Person is walking"
-  end  
+  end
 end
